@@ -1,1 +1,3 @@
 asdfaskjdhfkajs
+
+Added new text .... after commit.... check git status 
